@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgeey123
 - 👀 I’m interested in app and web developmment
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and python 
 - 💞️ I’m looking to collaborate on any project that helps me become a better developer
 - 📫 How to reach me:
   twitter- @g_eorgeey
